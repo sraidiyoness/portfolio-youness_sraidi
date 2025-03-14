@@ -3,7 +3,7 @@
 </h2>
 
 <div align="center">
-  <img alt="Aperçu" src="./Images/apercu-portfolio.png" />
+  <img alt="Aperçu du Portfolio" src="https://source.unsplash.com/1200x600/?technology,developer" />
 </div>
 
 ---
@@ -20,10 +20,9 @@ Ce site présente mon parcours, mes compétences et mes projets en développemen
 ## 🚀 Technologies utilisées  
 
 Ce projet a été réalisé avec les technologies suivantes :  
-- **HTML5** / **CSS3** (Animations & Design Responsive)  
+- **HTML5 / CSS3** *(Animations & Design Responsive)*  
 - **JavaScript (ES6+)**  
 - **React.js / Vue.js** *(selon ta stack)*  
-- **Node.js & Express.js** *(si backend présent)*  
 - **Bootstrap / TailwindCSS** *(Framework CSS)*  
 - **Git & GitHub** *(Gestion de version & Hébergement du code)*  
 
@@ -39,3 +38,18 @@ Ce projet a été réalisé avec les technologies suivantes :
 
 ---
 
+## 📞 Contact  
+
+💼 **Nom** : [SRAIDI YOUNESS]  
+📧 **Email** : [younesssraidi38@gmail.com]  
+🔗 **LinkedIn** : [linkedin.com/in/Sraidi Youness](https://www.linkedin.com/in/youness-sraidi-964124294/)  
+📂 **GitHub** : [github.com/sraidiyoness](https://github.com/sraidiyoness)  
+
+---
+
+## ⚠️ Licence et droits d'utilisation  
+
+Ce projet est **privé et protégé**.  
+Vous **n'avez pas le droit** de copier, modifier ou redistribuer ce code sans mon autorisation.  
+
+📩 Pour toute demande : [ton-email@example.com]
