@@ -3,7 +3,7 @@
 </h2>
 
 <div align="center">
-  <img alt="Aperçu du Portfolio" src="https://source.unsplash.com/1200x600/?technology,developer" />
+  <img alt="Aperçu du Portfolio" src="https://raw.githubusercontent.com/sraidiyoness/portfolio/main/Images/apercu-portfolio.png" />
 </div>
 
 ---
@@ -40,9 +40,9 @@ Ce projet a été réalisé avec les technologies suivantes :
 
 ## 📞 Contact  
 
-💼 **Nom** : [SRAIDI YOUNESS]  
-📧 **Email** : [younesssraidi38@gmail.com]  
-🔗 **LinkedIn** : [linkedin.com/in/Sraidi Youness](https://www.linkedin.com/in/youness-sraidi-964124294/)  
+💼 **Nom** : **SRAIDI YOUNESS**  
+📧 **Email** : [younesssraidi38@gmail.com](mailto:younesssraidi38@gmail.com)  
+🔗 **LinkedIn** : [linkedin.com/in/youness-sraidi](https://www.linkedin.com/in/youness-sraidi-964124294/)  
 📂 **GitHub** : [github.com/sraidiyoness](https://github.com/sraidiyoness)  
 
 ---
@@ -52,4 +52,4 @@ Ce projet a été réalisé avec les technologies suivantes :
 Ce projet est **privé et protégé**.  
 Vous **n'avez pas le droit** de copier, modifier ou redistribuer ce code sans mon autorisation.  
 
-📩 Pour toute demande : [ton-email@example.com]
+📩 Pour toute demande : [younesssraidi38@gmail.com](mailto:younesssraidi38@gmail.com)
